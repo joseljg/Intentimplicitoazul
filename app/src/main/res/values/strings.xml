@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent implicito Azul</string>
+    <string name="bt_enviar_url">Enviar</string>
+    <string name="dime_la_direccion_web">Dime la direccion web</string>
+    <string name="dime_la_localizacion">dime la localizacion</string>
+    <string name="escribe_tu_texto">Escribe tu texto</string>
+    <string name="button">Button</string>
+    <string name="enviar_texto">enviar Texto</string>
+</resources>
